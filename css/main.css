@@ -87,6 +87,41 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   
+body {
+  display: flex;
+  justify-content: center;
+  background-color:rgba(80, 187, 146, 0.986);
+  margin: 10px;
+  }
+
+.content-wrapper {
+  width: 60%;
+  height:500px;
+  background-color: hsl(300, 29%, 97%);
+  border-radius: 10px;
+  box-shadow:  0 4px 8px 5px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+img {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
